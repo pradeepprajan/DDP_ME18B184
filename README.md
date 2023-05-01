@@ -4,4 +4,4 @@ This repository contains Python framework for the adaptive algorithm, Python scr
 
 Details of the files:
 1. DDP_GAN.ipynb - Python framework for adaptive algorithm
-2. ME_composite.py - Python script for generating composite designs for initial data
+2. ME Composite 1.py - Python script for generating composite designs for initial data
